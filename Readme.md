@@ -10,7 +10,7 @@ Quando uma nova imagem é processada, o modelo retorna a identificação de "Lix
 
 Modelo Roboflow: https://universe.roboflow.com/odontoprev-ky4br/lixo-com-impacto-ambiental
 
-Modelos usados como base (modelo TACO atualizado por em tempo real por API): https://github.com/wimlds-trojmiasto/detect-waste
+Modelos usados como base (modelo TACO atualizado em tempo real por API): https://github.com/wimlds-trojmiasto/detect-waste
 
 # Tecnologias Utilizadas
 Foram usadas as tecnologias: YOLOv8 e Roboflow
